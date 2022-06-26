@@ -1,1 +1,18 @@
-
+{
+{
+      id: Math.random(),
+      text: 'God of War',
+    },
+    {
+      id: Math.random(),
+      text: 'Breath of the wild',
+    },
+    {
+      id: Math.random(),
+      text: 'Spiderman: Miles Morales',
+    },
+    {
+      id: Math.random(),
+      text: 'Ride 4',
+    },
+}
